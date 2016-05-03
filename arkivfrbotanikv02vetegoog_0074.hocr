@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv02vetegoog_0074.png"; bbox 0 0 3102 5059; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 478 243 1615 300">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 478 243 1615 300">
+     <span class='ocr_line' id='line_1_1' title="bbox 478 243 1615 300; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 478 245 651 300; x_wconf 74' lang='lat' dir='ltr'><strong>Arkiv</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 689 244 785 298; x_wconf 68' lang='grc' dir='ltr'>Ῡὸτ</span> <span class='ocrx_word' id='word_1_3' title='bbox 828 244 1095 298; x_wconf 77' lang='lat' dir='ltr'>Botanik.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1140 244 1301 297; x_wconf 81' lang='lat' dir='ltr'>Band</span> <span class='ocrx_word' id='word_1_5' title='bbox 1345 244 1383 295; x_wconf 89' lang='grc'>4</span> <span class='ocrx_word' id='word_1_6' title='bbox 1433 243 1535 297; x_wconf 76' lang='grc' dir='ltr'>Νιο</span> <span class='ocrx_word' id='word_1_7' title='bbox 1577 245 1615 296; x_wconf 90' lang='grc'>1.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 580 414 3089 4630">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 580 414 3089 4630">
+     <span class='ocr_line' id='line_1_2' title="bbox 580 414 3089 4630; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 580 414 3089 4630; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv02vetegoog_0469.png"; bbox 0 0 3102 5059; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2324 329 2546 384">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2324 329 2546 384">
+     <span class='ocr_line' id='line_1_1' title="bbox 2324 329 2546 384; baseline 0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 2324 329 2449 384; x_wconf 77' lang='lat' dir='ltr'><strong>Taf.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2490 329 2546 384; x_wconf 89' lang='lat'>5.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1993 4764 2566 4808">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1993 4764 2566 4808">
+     <span class='ocr_line' id='line_1_2' title="bbox 1993 4764 2566 4808; baseline -0.003 -5"><span class='ocrx_word' id='word_1_3' title='bbox 1993 4766 2030 4803; x_wconf 70' lang='lat' dir='ltr'>d.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2060 4764 2304 4808; x_wconf 68' lang='lat' dir='ltr'>eederquist</span> <span class='ocrx_word' id='word_1_5' title='bbox 2330 4765 2423 4803; x_wconf 72' lang='lat' dir='ltr'>foto</span> <span class='ocrx_word' id='word_1_6' title='bbox 2463 4774 2499 4802; x_wconf 93' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_7' title='bbox 2526 4764 2566 4802; x_wconf 74' lang='lat' dir='ltr'>tr</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
